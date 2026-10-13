@@ -12,12 +12,12 @@ I implemented a **GPU-accelerated MPPI controller and mission logic** for a simu
 
 <video
   src="https://github.com/user-attachments/assets/6beaf017-1508-4a7c-a9b6-7287dc1c2a85"
-  width="300"
+  width="200"
   controls>
 </video>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yiannisls/aquabot_mppi/main/docs/plots/obstacle_avoidance/cross_track_error.png" width="580" alt="Tracking error over time during the Aquabot obstacle-avoidance simulation">
+  <img src="https://raw.githubusercontent.com/yiannisls/aquabot_mppi/main/docs/plots/obstacle_avoidance/cross_track_error.png" width="680" alt="Tracking error over time during the Aquabot obstacle-avoidance simulation">
   <br>
   <em>Obstacle-avoidance simulation: 0.345 m mean tracking error over the documented 150-second run.</em>
 </p>
@@ -27,7 +27,7 @@ I implemented a **GPU-accelerated MPPI controller and mission logic** for a simu
 ### 🏎️ F1TENTH · Autonomous racing
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d728106c-609e-4dbc-8afa-7903e97af3c5" width="360" alt="Our F1TENTH team with the racing car at ROSCon France">
+  <img src="https://github.com/user-attachments/assets/d728106c-609e-4dbc-8afa-7903e97af3c5" width="460" alt="Our F1TENTH team with the racing car at ROSCon France">
 </p>
 
 A team project that took us from simulation to the race track. I developed the **local MPPI controller and obstacle avoidance used on the physical car**. Our team placed **fourth at ROSCon France in Paris**.
@@ -37,7 +37,7 @@ A team project that took us from simulation to the race track. I developed the *
 ### SO-101 · Learning from demonstrations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yiannisls/so101-behavioral-cloning/main/media/keyboard-demo-preview.jpg" width="360" alt="SO-101 pick-and-place task in MuJoCo simulation">
+  <img src="https://raw.githubusercontent.com/yiannisls/so101-behavioral-cloning/main/media/keyboard-demo-preview.jpg" width="460" alt="SO-101 pick-and-place task in MuJoCo simulation">
   <br>
   <em>The simulated pick-and-place task, shown during a teleoperated demonstration.</em>
 </p>
