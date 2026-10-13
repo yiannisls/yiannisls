@@ -6,7 +6,7 @@ I'm an **MSc Advanced Robotics student at Centrale Nantes**, interested in how r
 
 ## A few things I've built
 
-### 🚤 Aquabot · Autonomous boat inspection
+### Aquabot · Autonomous boat inspection
 
 I implemented a **GPU-accelerated MPPI controller and mission logic** for a simulated boat navigating around obstacles and inspecting wind turbines, at the Sirenha Challenge.
 
